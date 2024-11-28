@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Doniyor O'rinboyev
+I'm Doniyor O'rinboyev
 
 ### 🌟 Backend Developer | Python 
 
@@ -17,20 +17,10 @@ I am a passionate backend developer specializing in creating robust, scalable, a
 - **API Development:** REST
 - **DevOps & Tools:** Docker, Git  
 
-
 ---
 
+📫 **Connect**
 
-📈 **GitHub Stats**  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Doniyor&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Doniyor&layout=compact&theme=radical)
-
----
-
-📫 **Let's Connect**
-
-- 🌐 Portfolio: [PortfolioLink.com](file:///D:/certificate/Doniyor%20O%E2%80%99rinboyev)
 - 💼 LinkedIn: [LinkedInProfile](https://www.linkedin.com/in/doniyor-urinboyev-538b09304/?trk=opento_sprofile_details)
 - 📧 Email: [email@gamil.com](mailto:domanick191201@gamil.com)
 
