@@ -14,6 +14,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/Doniyor1912/Doniyor1912/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Doniyor1912/Doniyor1912/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
