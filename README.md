@@ -23,8 +23,8 @@ I am a passionate backend developer specializing in creating robust, scalable, a
 
 📈 **GitHub Stats**  
 
-![GitHub Stats](https://github.com/Doniyor1912)  
-![Top Languages](https://github.com/Doniyor1912)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Doniyor&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Doniyor&layout=compact&theme=radical)
 
 ---
 
