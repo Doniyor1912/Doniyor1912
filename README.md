@@ -1,19 +1,41 @@
-<h2 align="left">Hi 👋! My name is Doniyor O'rinboyev and I'm a Back-end developer</h2>
-###
+# Hi there! 👋 I'm Doniyor O'rinboyev
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### 🌟 Backend Developer | Python 
 
-###
+---
 
-<br clear="both">
+🔧 **About Me**  
+I am a passionate backend developer specializing in creating robust, scalable, and secure backend systems using Python. With a strong focus on clean architecture and efficiency, I love solving complex problems and turning ideas into reality.
 
-<img src="https://github.com/Doniyor1912/Doniyor1912/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
+---
 
-###
+🚀 **Skills & Tools**  
+
+- **Languages:** Python, JavaScript  
+- **Frameworks:** Django
+- **Databases:** PostgreSQL, MySQL, SQLite, 
+- **API Development:** REST
+- **DevOps & Tools:** Docker, Git  
+
+
+---
+
+
+📈 **GitHub Stats**  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Doniyor19&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Doniyor19&layout=compact&theme=radical)
+
+---
+
+📫 **Let's Connect**
+
+- 🌐 Portfolio: [PortfolioLink.com](https://www.canva.com/design/DAGXkLSmYfk/RAt373rXRhc3PYAbhLG8Dg/edit?utm_content=DAGXkLSmYfk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 💼 LinkedIn: [LinkedInProfile](https://www.linkedin.com/in/doniyor-urinboyev-538b09304/?trk=opento_sprofile_details)
+- 📧 Email: [email@gamil.com](mailto:domanick191201@gamil.com)
+
+
+---
+
+💻 **Open to Collaborations**  
+I'm always eager to work on exciting Python projects. Feel free to reach out if you'd like to collaborate!
