@@ -30,7 +30,7 @@ I am a passionate backend developer specializing in creating robust, scalable, a
 
 📫 **Let's Connect**
 
-- 🌐 Portfolio: [PortfolioLink.com](https://www.canva.com/design/DAGXkLSmYfk/RAt373rXRhc3PYAbhLG8Dg/edit?utm_content=DAGXkLSmYfk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 🌐 Portfolio: [PortfolioLink.com](file:///D:/certificate/Doniyor%20O%E2%80%99rinboyev.pdf)
 - 💼 LinkedIn: [LinkedInProfile](https://www.linkedin.com/in/doniyor-urinboyev-538b09304/?trk=opento_sprofile_details)
 - 📧 Email: [email@gamil.com](mailto:domanick191201@gamil.com)
 
