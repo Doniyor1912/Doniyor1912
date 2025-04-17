@@ -1,20 +1,20 @@
 <h1>I'm Doniyor O'rinboyev</h1>
 
-### 🌟 Backend Developer | Python 
+### 🌟 Software Engineer
 
 ---
 
 🔧 **About Me**  
-I am a passionate backend developer specializing in creating robust, scalable, and secure backend systems using Python. With a strong focus on clean architecture and efficiency, I love solving complex problems and turning ideas into reality.
+I am a passionate software engineer specializing in creating robust, scalable, and secure backend systems. With a strong focus on clean architecture and efficiency, I love solving complex problems and turning ideas into reality.
 
 ---
 
 🚀 **Skills & Tools**  
 
-- **Languages:** Python, JavaScript  
-- **Frameworks:** Django
-- **Databases:** PostgreSQL, MySQL, SQLite, 
-- **API Development:** REST
+- **Languages:** Python, JavaScript, PHP
+- **Frameworks:** Django, React, Laravel
+- **Databases:** PostgreSQL, MySQL, SQLite, MongoDB
+- **API Development:** REST, GraphQL
 - **DevOps & Tools:** Docker, Git  
 
 ---
@@ -28,4 +28,4 @@ I am a passionate backend developer specializing in creating robust, scalable, a
 ---
 
 💻 **Open to Collaborations**  
-I'm always eager to work on exciting Python projects. Feel free to reach out if you'd like to collaborate!
+I'm always eager to work on exciting projects. Feel free to reach out if you'd like to collaborate!
