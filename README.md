@@ -43,6 +43,12 @@
 
 ---
 
+## 🏆 Achievements
+![trophy](https://github-profile-trophy.vercel.app/?username=Doniyor1912&theme=onedark)
+
+---
+
+
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Doniyor1912&show_icons=true&theme=radical)
@@ -52,22 +58,10 @@
 
 ---
 
-## 🏆 Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=Doniyor1912&theme=onedark)
-
----
-
 
 ## 📊 Contribution Activity
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Doniyor1912&theme=radical)  
-
----
-
-### 🐍 Snake Animation
-
-![Gradient Snake](https://raw.githubusercontent.com/Doniyor1912/Doniyor1912/main/dist/snake-gradient.svg)
-
 
 
 ---
