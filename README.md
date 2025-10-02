@@ -53,11 +53,12 @@
 ---
 
 ## 🏆 Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=doniyor123&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=Doniyor1912&theme=onedark)
 
 ---
 
 ## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/doniyor)
-[![Telegram](https://img.shields.io/badge/Telegram-white?style=flat&logo=telegram)](https://t.me/doniyor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/doniyor-urinboyev-538b09304/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Romax_11)
+
 
