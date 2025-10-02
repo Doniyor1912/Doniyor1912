@@ -7,6 +7,7 @@
 
 ---
 
+
 ## 🛠️ Languages & Tools
 
 <p align="left">
@@ -43,11 +44,6 @@
 
 ---
 
-## 🏆 Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=Doniyor1912&theme=onedark)
-
----
-
 
 ## 📊 GitHub Stats
 
@@ -57,6 +53,16 @@
 
 
 ---
+
+
+## 🏆 Achievements
+![trophy](https://github-profile-trophy.vercel.app/?username=Doniyor1912&theme=onedark)
+
+
+---
+
+
+
 
 
 ## 📊 Contribution Activity
