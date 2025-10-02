@@ -8,7 +8,8 @@
 ---
 
 
-## 🛠️ Languages & Tools
+🛠️ Languages & Tools
+
 
 <p align="left">
   <!-- Programming Languages -->
@@ -46,6 +47,7 @@
 
 
  📊 GitHub Stats
+ 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Doniyor1912&show_icons=true&theme=radical)
 
@@ -56,6 +58,8 @@
 
 
 🏆 Achievements
+
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=Doniyor1912&theme=onedark)
 
 
@@ -63,12 +67,14 @@
 
 
 
-## 📊 Contribution Activity
+📊 Contribution Activity
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Doniyor1912&theme=radical)  
 
 
 ---
+
 
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/doniyor-urinboyev-538b09304/)
