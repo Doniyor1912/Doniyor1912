@@ -1,6 +1,9 @@
 # Hi there 👋 I'm Doniyor
 
-## 🚀 About Me
+
+ 🚀 About Me
+
+
 - 💻 Software Engineer
 - 🌱 Learning & building with **Django | Laravel | FastAPI**
 - ⚡ Fun fact: I love solving complex problems
@@ -76,7 +79,9 @@
 ---
 
 
-## 🔗 Connect with me
+ 🔗 Connect with me
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/doniyor-urinboyev-538b09304/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Romax_11)
 
