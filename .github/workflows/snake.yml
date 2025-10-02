@@ -1,9 +1,12 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # Har kuni yarim tunda ishlaydi
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # qo'lda ham ishga tushirish mumkin
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -17,11 +20,14 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Doniyor1912
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-light.svg?palette=github-light
+            dist/snake-colored.svg?color_snake=#ff6600&color_dots=#00ccff
 
-      - name: Upload to GitHub
+      - name: Commit and push
         uses: EndBug/add-and-commit@v9
         with:
-          add: "dist/snake.svg"
+          add: "dist/*.svg"
           message: "update snake animation"
           default_author: github_actions
