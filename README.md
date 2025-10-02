@@ -62,7 +62,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Doniyor1912&theme=radical)  
 
-![Snake animation](./output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Doniyor1912/Doniyor1912/main/dist/snake.svg)
+
 
 
 
