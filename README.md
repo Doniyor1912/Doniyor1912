@@ -1,31 +1,25 @@
-<h1>I'm Doniyor O'rinboyev</h1>
+# Hi there 👋 I'm Doniyor
 
-### 🌟 Software Engineer
-
----
-
-🔧 **About Me**  
-I am a passionate software engineer specializing in creating robust, scalable, and secure backend systems. With a strong focus on clean architecture and efficiency, I love solving complex problems and turning ideas into reality.
+## 🚀 About Me
+- 🌱 I’m currently learning **Laravel, Django, FastAPI**
+- 💬 Ask me about **Backend Development**
+- ⚡ Fun fact: I love coding late nights 🌙
 
 ---
 
-🚀 **Skills & Tools**  
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=doniyor123&show_icons=true&theme=radical)
 
-- **Languages:** Python, JavaScript, PHP
-- **Frameworks:** Django, React, Laravel
-- **Databases:** PostgreSQL, MySQL, SQLite, MongoDB
-- **API Development:** REST, GraphQL
-- **DevOps & Tools:** Docker, Git  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doniyor123&layout=compact&theme=tokyonight)
 
 ---
 
-📫 **Connect**
-
-- 💼 LinkedIn: [LinkedInProfile](https://www.linkedin.com/in/doniyor-urinboyev-538b09304/?trk=opento_sprofile_details)
-- 📧 Email: [email@gamil.com](mailto:domanick191201@gamil.com)
-
+## 🏆 Achievements
+![trophy](https://github-profile-trophy.vercel.app/?username=doniyor123&theme=onedark)
 
 ---
 
-💻 **Open to Collaborations**  
-I'm always eager to work on exciting projects. Feel free to reach out if you'd like to collaborate!
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/doniyor)
+[![Telegram](https://img.shields.io/badge/Telegram-white?style=flat&logo=telegram)](https://t.me/doniyor)
+
