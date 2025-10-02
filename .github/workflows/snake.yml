@@ -1,16 +1,16 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # har kuni soat 00:00 UTC da ishlaydi
+  schedule: # Har kuni yarim tunda ishlaydi
     - cron: "0 0 * * *"
-  workflow_dispatch: # qo'lda ham ishga tushirsa bo'ladi
+  workflow_dispatch: # qo'lda ham ishga tushirish mumkin
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v3
 
       - name: Generate Snake
@@ -19,10 +19,9 @@ jobs:
           github_user_name: Doniyor1912
           outputs: dist/snake.svg
 
-      - name: Push Snake to output branch
+      - name: Upload to GitHub
         uses: EndBug/add-and-commit@v9
         with:
-          author_name: github-actions[bot]
-          author_email: github-actions[bot]@users.noreply.github.com
-          message: "chore: update snake animation"
           add: "dist/snake.svg"
+          message: "update snake animation"
+          default_author: github_actions
