@@ -66,9 +66,8 @@
 
 ### 🐍 Snake Animation
 
-![Dark snake](https://raw.githubusercontent.com/Doniyor1912/Doniyor1912/main/dist/snake-dark.svg#gh-dark-mode-only)
-![Light snake](https://raw.githubusercontent.com/Doniyor1912/Doniyor1912/main/dist/snake-light.svg#gh-light-mode-only)
-![Color snake](https://raw.githubusercontent.com/Doniyor1912/Doniyor1912/main/dist/snake-colored.svg)
+![Gradient Snake](https://raw.githubusercontent.com/Doniyor1912/Doniyor1912/main/dist/snake-gradient.svg)
+
 
 
 ---
