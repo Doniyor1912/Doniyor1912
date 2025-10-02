@@ -57,6 +57,18 @@
 
 ---
 
+
+## 📊 Contribution Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Doniyor1912&theme=radical)  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Doniyor1912&theme=tokyo-night)  
+
+![Snake animation](https://github.com/Doniyor1912/Doniyor1912/blob/output/github-contribution-grid-snake.svg)
+
+
+---
+
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/doniyor-urinboyev-538b09304/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Romax_11)
