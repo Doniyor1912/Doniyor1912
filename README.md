@@ -62,9 +62,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Doniyor1912&theme=radical)  
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Doniyor1912&theme=tokyo-night)  
+![Snake animation](./output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://raw.githubusercontent.com/Doniyor1912/Doniyor1912/main/output/github-contribution-grid-snake.svg)
 
 
 ---
