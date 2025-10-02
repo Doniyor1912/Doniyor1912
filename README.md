@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Doniyor
 
 ## 🚀 About Me
-- 💻 Backend Developer
+- 💻 Software Engineer
 - 🌱 Learning & building with **Django | Laravel | FastAPI**
 - ⚡ Fun fact: I love solving complex problems
 
