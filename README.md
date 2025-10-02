@@ -62,9 +62,13 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Doniyor1912&theme=radical)  
 
-![Snake animation](https://raw.githubusercontent.com/Doniyor1912/Doniyor1912/main/dist/snake.svg)
+---
 
+### 🐍 Snake Animation
 
+![Dark snake](https://raw.githubusercontent.com/Doniyor1912/Doniyor1912/main/dist/snake-dark.svg#gh-dark-mode-only)
+![Light snake](https://raw.githubusercontent.com/Doniyor1912/Doniyor1912/main/dist/snake-light.svg#gh-light-mode-only)
+![Color snake](https://raw.githubusercontent.com/Doniyor1912/Doniyor1912/main/dist/snake-colored.svg)
 
 
 ---
